@@ -130,21 +130,38 @@ Evaluation metrics used:
 ## **Project Workflow**
 
 Data Loading
-↓
+
+  ↓
+
 Data Cleaning
-↓
+
+  ↓
+
 EDA & Visualization
-↓
+
+  ↓
+
 Text Preprocessing
-↓
+
+  ↓
+
 TF-IDF Feature Engineering
-↓
+
+  ↓
+
 Train-Test Split
-↓
+
+      
+  ↓
+  
 Model Training
-↓
+
+  ↓
+      
 Prediction
-↓
+
+  ↓
+     
 Evaluation
 
 
@@ -152,35 +169,29 @@ Evaluation
 
 ## **Screenshots**
 
-> Upload images inside a folder named `/screenshots`
+
 
 ### **Sentiment Distribution**
 
-![Sentiment Distribution](screenshots/sentiment_distribution.png)
+![Sentiment Distribution](Charts/SentimentDistribution.png)
 
 ---
 
 ### **Engagement Comparison**
 
-![Engagement Comparison](screenshots/engagement_comparison.png)
+![Engagement Comparison](Charts/EngagementComparison.png)
 
 ---
 
 ### **Followers vs Likes**
 
-![Followers vs Likes](screenshots/followers_vs_likes.png)
+![Followers vs Likes](Charts/FollowersVsLikes.png)
 
 ---
 
 ### **Language-wise Engagement**
 
-![Language Engagement](screenshots/language_engagement.png)
-
----
-
-### **Naive Bayes Confusion Matrix**
-
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Language Engagement](Charts/LanguageWiseEngagement.jpeg)
 
 ---
 
@@ -221,5 +232,7 @@ Evaluation
 ## **Author**
 
 *Goutham Baggu*
+
 *goutham.baggu5086@gmail.com*
+
 R | Machine Learning | Data Analytics | NLP  
