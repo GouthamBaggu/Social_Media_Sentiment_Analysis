@@ -195,6 +195,19 @@ Evaluation
 
 ---
 
+**ML Algorithms**
+### **Logistic Regression Analysis**
+
+![Language Engagement](Charts/LanguageWiseEngagement.png)
+
+---
+
+### **Naive Bayes**
+
+![Language Engagement](Charts/LanguageWiseEngagement.png)
+
+---
+
 ## **Technologies Used**
 
 - R
