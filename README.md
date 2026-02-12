@@ -191,7 +191,7 @@ Evaluation
 
 ### **Language-wise Engagement**
 
-![Language Engagement](Charts/LanguageWiseEngagement.jpeg)
+![Language Engagement](Charts/LanguageWiseEngagement.png)
 
 ---
 
