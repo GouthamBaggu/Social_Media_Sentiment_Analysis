@@ -46,6 +46,13 @@ The dataset includes:
 
 ---
 
+### **Dataset Preview**
+
+
+![Language Engagement](Charts/DataSetPreview.png)
+
+---
+
 ## **Exploratory Data Analysis (EDA)**
 
 ### **Sentiment Distribution**
@@ -198,13 +205,13 @@ Evaluation
 **ML Algorithms**
 ### **Logistic Regression Analysis**
 
-![Language Engagement](Charts/LanguageWiseEngagement.png)
+![Language Engagement](Charts/LogisticRegressionAnalysis.png)
 
 ---
 
 ### **Naive Bayes**
 
-![Language Engagement](Charts/LanguageWiseEngagement.png)
+![Language Engagement](Charts/NaiveBayes.png)
 
 ---
 
@@ -229,16 +236,6 @@ Evaluation
 - TF-IDF improves textual feature representation.
 - Naive Bayes effectively classifies sentiment.
 - Logistic Regression provides interpretable probability estimates.
-
----
-
-## **Future Improvements**
-
-- Hyperparameter tuning  
-- Cross-validation  
-- Feature optimization  
-- Deep learning-based sentiment models  
-- Deployment using Shiny  
 
 ---
 
